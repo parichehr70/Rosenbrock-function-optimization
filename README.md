@@ -10,3 +10,5 @@ D =
 ,
 alpha_max =
 0.0020
+########################
+By the method of steepest descent(SD), the minimum function was obtained.
